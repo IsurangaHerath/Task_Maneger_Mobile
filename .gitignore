@@ -1,4 +1,5 @@
 # Miscellaneous
+error.txt
 *.class
 *.log
 *.pyc
