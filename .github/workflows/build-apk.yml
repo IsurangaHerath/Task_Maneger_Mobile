@@ -36,7 +36,7 @@ jobs:
             keyPassword=$KEY_PASSWORD
             keyAlias=$KEY_ALIAS
             storeFile=upload-keystore.jks
-            EOF
+          EOF
           fi
 
       - name: Build APK
